@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <h1>Kamusta mundo!</h1>
+      <h1>Kamusta mundo! from vercel</h1>
     </div>
   );
 }
